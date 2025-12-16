@@ -1,0 +1,62 @@
+/*Brewster Loomer table assignment*/
+
+#img
+     {
+        width: 300px; /* Sets the width to 300 pixels */
+        height: auto; /* Height will adjust proportionally */
+        margin-left: center;
+        margin-right: auto;
+    } 
+h2 
+{
+    background-color: rgb(238, 241, 222);
+    text-align: center;
+}
+
+
+body 
+{
+    background-image: url('3dprinterbkg.png');
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+
+#orders
+{
+    
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+
+#cust1
+{
+    
+    text-align: center;
+    background-color: rgb(219, 245, 105);
+  margin-top: 20px;
+    
+}
+#info
+ {
+  background-color: rgb(230, 8, 8);
+  margin-top: 20px;
+}
+ footer
+    {
+        background-color: rgb(243, 10, 10);
+        font-size: 18px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-style: italic;
+        font-weight: 200;
+        text-emphasis: filled color;
+        text-decoration: underline;
+        text-decoration-color: rgb(227, 243, 7);
+        text-align: center;
+        margin-right: auto;
+
+
+        border: 2px solid black;
+         
+    }

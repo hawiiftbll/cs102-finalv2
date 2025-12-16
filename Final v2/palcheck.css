@@ -1,0 +1,58 @@
+/*Brewster Loomer*/
+
+
+   body 
+{
+    background-image: url('Palindrome\ parade\ background.png');
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+h1
+   {
+    text-align: center;
+   }
+   
+   
+#img {
+      width: 300px; /* Sets the width to 300 pixels */
+      height: auto; /* Height will adjust proportionally */
+    }
+
+#info
+    {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    font-weight: bolder;  
+    font-size: 50px;
+    font-style: italic;
+    color: rgb(206, 36, 36);
+    text-decoration: underline;
+    text-shadow: 5px 5px 5px black;
+    }
+#palCheck {
+  display: block; /* Makes it a block so it is easier to format margins */
+  margin-left: auto;
+  margin-right: auto;
+  
+
+  max-width: 300px; 
+}
+ footer
+    {
+        background-color: rgb(243, 10, 10);
+        font-size: 18px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-style: italic;
+        font-weight: 200;
+        text-emphasis: filled color;
+        text-decoration: underline;
+        text-decoration-color: rgb(227, 243, 7);
+        text-align: center;
+        margin-right: auto;
+
+
+        border: 2px solid black;
+         
+    }

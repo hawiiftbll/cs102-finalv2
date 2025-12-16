@@ -1,0 +1,20 @@
+/*Brewster Loomer 11/16/25 assignment*/
+/*This portion controls the styling of the header portion*/
+     header
+   {
+    text-align: center;
+   }
+   
+   /*This portion controls the styling of the button portion
+   it also turns the button to block so I could make it centered*/
+   button
+   {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+   }
+   /*This portion controls the styling of the body portion changing the background color*/
+   body
+   {
+    background-color: aquamarine;
+   }

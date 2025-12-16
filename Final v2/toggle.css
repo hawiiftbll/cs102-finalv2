@@ -1,0 +1,68 @@
+/*Brewster Loomer*/
+h1
+   {
+    text-align: center;
+   }
+/*This is where the formatting to make the button look like it does green for start*/
+#startButton
+{
+    font-size: larger; 
+    color:rgb(11, 226, 22);
+    background-color: black;
+    border-radius: 5px;
+    border-color: green;
+    display: block; 
+    margin: 0 auto; 
+}
+/*This is where the formatting to make the button look like it does red for stop*/
+#stopButton
+{
+   
+    font-size: larger; 
+    color:rgb(226, 11, 11);
+    background-color: black;
+    border-radius: 5px;
+    border-color: red;
+    display: block; 
+    margin: 0 auto; 
+}
+/*This is body formatting to add the monkey coffeewarehouse background*/
+   body 
+{
+    background-image: url('coffeewarehouse.png');
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+/*This is the formatting of div that allows the effects to the message about monkey stealing the coffee*/
+div
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    font-weight: bolder;  
+    font-size: 50px;
+    font-style: italic;
+    color: white;
+    
+
+
+
+}
+ footer
+    {
+        background-color: rgb(243, 10, 10);
+        font-size: 18px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-style: italic;
+        font-weight: 200;
+        text-emphasis: filled color;
+        text-decoration: underline;
+        text-decoration-color: rgb(227, 243, 7);
+        text-align: center;
+        margin-right: auto;
+
+
+        border: 2px solid black;
+         
+    }

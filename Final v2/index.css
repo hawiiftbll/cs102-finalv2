@@ -1,0 +1,81 @@
+/*Brewster Loomer 11/16/25 assignment*/
+
+/*This portion controls the styling of the header portion*/
+     header
+   {
+    text-align: center;
+   }
+
+h6
+   {
+    text-align: center;
+    font-size: 18px;
+   }
+
+/*This portion controls the body styling */
+     body
+   {
+    background-color:aqua;
+    /*background-color: rgb(59, 233, 233);
+    background-image: url(monkeycoffee.jpg);
+    background-image: linear-gradient(pink,grey);
+    background-image: radial-gradient(orange,green);
+    */
+    }
+
+     nav
+    /* This section is what controls nav portion of index page and boards page*/
+    {
+        color: rgb(0, 3, 0);
+        border: 2px black;
+        height: 600px;
+        width: 200px;
+        float: left;
+        padding: 5px;
+        line-height: 30px;
+    }
+
+#nav2
+    /* This section is what controls nav portion of index page and boards page*/
+    {
+        color: rgb(0, 3, 0);
+        border: 2px black;
+        height: 600px;
+        width: 200px;
+        float: left;
+        padding: 5px;
+        line-height: 30px;
+    }
+/* This section controls the properties for the image*/
+     img
+
+    {
+     margin-right: 200px;
+  
+    }
+#img
+     {
+        width: 300px; /* Sets the width to 300 pixels */
+        height: auto; /* Height will adjust proportionally */
+        margin-left: center;
+        margin-right: auto;
+    } 
+
+/* This portion controls how the formatting and color is for the footer portions*/    
+     footer
+    {
+        background-color: rgb(243, 10, 10);
+        font-size: 18px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-style: italic;
+        font-weight: 200;
+        text-emphasis: filled color;
+        text-decoration: underline;
+        text-decoration-color: rgb(227, 243, 7);
+        text-align: center;
+        margin-right: auto;
+
+
+        border: 2px solid black;
+         
+    }
